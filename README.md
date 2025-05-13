@@ -32,14 +32,13 @@
 
 ```
 
-## 快速开始 🚀
 
-1. 安装依赖：
+ 
+## 安装依赖： 
 ```bash
 
 pip install -r requirements.txt
-2.
-python app.py
+
 
 ```
 

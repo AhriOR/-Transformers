@@ -1,0 +1,6 @@
+gradio==4.44.1
+transformers==4.51.3
+pyodbc==5.2.0
+python==3.9.21
+torch==2.6.0+cu126
+pyngrok==7.2.4
